@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addition_layout" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="dobEditText" type="id" />
+    <item name="genderRadioGroup" type="id" />
+    <item name="maleRadioButton" type="id" />
+    <item name="femaleRadioButton" type="id" />
+    <item name="contactPreferenceRadioGroup" type="id" />
+    <item name="phoneRadioButton" type="id" />
+    <item name="emailRadioButton" type="id" />
+    <item name="bothRadioButton" type="id" />
+    <item name="interestsSpinner" type="id" />
+    <item name="profileImageView" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="subtract_button" type="id" />
+    <item name="multiply_button" type="id" />
+    <item name="division_button" type="id" />
+    <item name="random_button" type="id" />
+    <item name="gamelayout" type="id" />
+    <item name="dashboard" type="id" />
+    <item name="gameoverscreen" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="timerTextView" type="id" />
+    <item name="scoreTextView" type="id" />
+    <item name="final_score" type="id" />
+    <item name="questionNumberTextView" type="id" />
+    <item name="play_again" type="id" />
+    <item name="questionTextView" type="id" />
+    <item name="option1Button" type="id" />
+    <item name="option2Button" type="id" />
+    <item name="option3Button" type="id" />
+    <item name="option4Button" type="id" />
+</resources>
